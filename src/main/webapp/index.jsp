@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello everyone!</h2>
-<marquee><h2>Welcome!</h2></marquee>
+<marquee><h2>Welcome to BEC!</h2></marquee>
 </body>
 </html>
